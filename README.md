@@ -65,7 +65,7 @@ Total Amount    : 11650.00
 ## Requirements
 
 - A Unix-like shell with Bash
-- `bc` for floating point arithmetic
+- `awk` for floating point arithmetic (present on any standard Unix system)
 
 ## License
 
